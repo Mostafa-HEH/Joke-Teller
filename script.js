@@ -10,7 +10,7 @@ function toggleButton() {
 function tellMe(joke) {
         VoiceRSS.speech({
         key: 'feb2386d47d24a4d9911817f68fb0cc1',
-        src: joke,
+        src: 'Nahed El Sayed Ali Hamouda',
         hl: 'en-us',
         v: 'Linda',
         r: 0, 
