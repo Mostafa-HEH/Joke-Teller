@@ -63,11 +63,11 @@ html body .container button:disabled {
 }
 
 @media screen and (max-width: 1000px) {
-  .container {
+  html body .container {
     background-position: center center;
     background-size: cover;
   }
-  .container button {
+  html body .container button {
     -webkit-box-shadow: 5px 5px 30px 20px rgba(0, 0, 0, 0.5);
             box-shadow: 5px 5px 30px 20px rgba(0, 0, 0, 0.5);
   }
